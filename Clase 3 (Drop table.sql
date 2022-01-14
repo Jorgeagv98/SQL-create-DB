@@ -1,0 +1,12 @@
+# Eliminar una tabla
+
+## DROP TABLE <nombre_tabla>
+
+### Desarrollo ###
+
+USE SAKILA;
+CREATE TABLE KOI
+SELECT CITY_ID, PHONE, DISTRICT, LOCATION FROM ADDRESS;
+SHOW TABLES;
+DROP TABLE KOI
+

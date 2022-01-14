@@ -1,0 +1,9 @@
+Primary Key:
+
+Es un identificador unico y no nulo que identifica una fila, pueden ser una o varias columnas.
+
+Foreign Key:
+
+Esatblece un vinculo con la clave primaria de otra tabla, establece la relacion de una tabla con la PK de otra.
+
+Existe para prevenir acciones que destruyanm las relaciones entre las tablas.

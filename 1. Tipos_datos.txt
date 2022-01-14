@@ -1,0 +1,13 @@
+Tipos de datos:
+
+Los datos son representaciones de atributos o elementos.
+
+Cualitativos: Son aquellos que indican categorias no medibles
+Cuantitativos: Son todos mediciones de los atributos o variables del hecho
+
+En SQL hay tres tipos de datos
+
+Numericos: BIT, TINYINT, BOOL, BOOLEAN, SMALLINT
+Caracteres: CHAR, VARCHAR, BINARY
+Fecha y tiempo: DATE, DATETIME, TIMESTAMP
+
